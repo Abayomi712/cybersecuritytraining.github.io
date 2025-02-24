@@ -6,10 +6,12 @@ permalink: /about/
 
 Cyber Security Trainings
 
+A place to include any other types of information that you'd like to include about yourself.
+
 ### More Information
 
-**bold** A place to include any other types of information that you'd like to include about yourself.
-*italic*
+
+**bold** 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+
